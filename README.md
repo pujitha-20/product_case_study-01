@@ -10,10 +10,18 @@ This case study explores a real-world product concept: Emergency QR Identity Car
 <img src="qr_image.jpeg" alt="QR Identity Card Preview" width="400"/>
 
 ---
+ 📖 Case Study Preview
 
- 📄 Full Case Study Document
+> ✨ A real-world idea that connects QR tech with emergency healthcare in India.
 
-👉 [Read the Full Case Study (Google Doc)](https://docs.google.com/document/d/1pqI6QxI--yE33_JOodoz7Ap9C2EK6tI21yojXlIijmo/edit)
+<img src="images/page-1.png" alt="Case Study Page 1" width="600"/>
+<img src="images/page-2.png" alt="Case Study Page 2" width="600"/>
+<img src="images/page-3.png" alt="Case Study Page 3" width="600"/>
+<img src="images/page-4.png" alt="Case Study Page 4" width="600"/>
+<img src="images/page-5.png" alt="Case Study Page 5" width="600"/>
+<img src="images/page-6.png" alt="Case Study Page 6" width="600"/>
+
+🔗 [Click here to open the full Google Doc](https://docs.google.com/document/d/1pqI6QxI--yE33_JOodoz7Ap9C2EK6tI21yojXlIijmo/edit)
 
 ---
 
